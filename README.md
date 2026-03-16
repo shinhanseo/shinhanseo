@@ -40,6 +40,8 @@ Flutter · React · Android · Node.js
 
 <img src="https://skillicons.dev/icons?i=flutter,android,react"/>
 
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
 </p>
 
 ### Backend
