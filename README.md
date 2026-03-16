@@ -126,4 +126,10 @@ React Native 기반 약속 알림 앱
 
 ---
 
+# 🌱 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/shinhanseo" alt="shinhanseo's github chart" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
