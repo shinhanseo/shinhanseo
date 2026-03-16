@@ -26,9 +26,35 @@ Flutter · React · Android · Node.js
 
 # 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,react,reactnative,flutter,nodejs,tailwind,android&perline=6"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts"/>
+
+</p>
+
+### Mobile Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,android,react"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+### Styling
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
 
 </p>
 
