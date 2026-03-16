@@ -26,8 +26,6 @@ Flutter · React · Android · Node.js
 
 # 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### Languages
 
 <p>
@@ -43,7 +41,9 @@ Flutter · React · Android · Node.js
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,android,react" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=android" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Backend
