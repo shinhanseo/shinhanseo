@@ -50,7 +50,7 @@ Flutter · React · Android · Node.js
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
-</p>>
+</p>
 
 ### Cloud & DevOps
 
