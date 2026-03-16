@@ -26,6 +26,8 @@ Flutter · React · Android · Node.js
 
 # 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 ### Languages
 
 <p>
@@ -41,9 +43,8 @@ Flutter · React · Android · Node.js
 ### Mobile Development
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://skillicons.dev/icons?i=flutter,android" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 
 ### Backend
@@ -57,7 +58,6 @@ Flutter · React · Android · Node.js
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
-
 ---
 
 # 🚀 Projects
