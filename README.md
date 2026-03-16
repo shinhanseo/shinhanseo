@@ -29,35 +29,33 @@ Flutter · React · Android · Node.js
 ### Languages
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts"/>
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### Mobile Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=flutter,android,react"/>
-
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-### Styling
+### Cloud & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
 
 ---
