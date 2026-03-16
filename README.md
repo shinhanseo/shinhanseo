@@ -1,97 +1,153 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hanseo%20Shin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<h1 align="center">👋 안녕하세요, 신한서입니다</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Hanseo%20Shin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
-가천대학교 컴퓨터공학과<br>
-웹 · 모바일 개발을 공부하고 있는 개발자입니다.
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shinhanseo&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C7FF&center=true&vCenter=true&width=700&lines=Hello+I'm+Hanseo+Shin;Computer+Engineering+Student;Web+%26+Mobile+Developer;Flutter+%7C+React+%7C+Android"/>
+
 </p>
 
 ---
 
-## 🧑‍💻 소개
+# 🧑‍💻 About Me
 
-* 🎓 가천대학교 컴퓨터공학과 재학
-* 💻 웹 · 모바일 개발 공부 중
-* 📱 **Android / Flutter 기반 모바일 개발 가능**
-* 🚀 다양한 프로젝트를 통해 개발 경험을 쌓고 있습니다
-* 🌏 현재 **여행 동행 매칭 앱**을 개발 중입니다
+🎓 **Gachon University — Computer Engineering**
+
+💻 Web / Mobile Developer
+
+📱 **Android · Flutter 개발 가능**
+
+🚀 다양한 프로젝트를 만들며 개발 경험을 쌓고 있습니다
+
+🌏 현재 **여행 동행 매칭 앱**을 개발 중입니다
 
 ---
 
-## 🛠 기술 스택
+# 🛠 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,react,reactnative,flutter,nodejs,tailwind,android&perline=6"/>
+
 </p>
 
 ---
 
-## 🚀 프로젝트
+# 🚀 Projects
 
-### 🍸 칵테일 웹사이트 (React)
+### 🍸 Cocktail Web
 
-칵테일 레시피를 검색할 수 있는 웹 프로젝트
+React 기반 칵테일 웹
 
-* 칵테일 API 활용
-* React 기반 UI 구성
-* 검색 기능 구현
+* React UI 구현
+* 검색 기능
+* 제미나이 연동 맞춤 칵테일 레시피 추천
+* 맞춤 칵테일 레시피 이미지 생성
+---
+
+### ⏰ Meeting Alarm App
+
+React Native 기반 약속 알림 앱
+
+* 약속 시간 등록
+* 알림 기능
+* 출발지, 목적지 등록
+* 장소 기반 경로 탐색
+* 카메라 인증 기능
 
 ---
 
-### ⏰ 약속 시간 알림 앱 (React Native)
+### 🌏 Trip Mate
 
-약속 시간을 등록하면 알림을 보내주는 모바일 앱
-
-* 약속 등록
-* 알림 기능 구현
-
----
-
-### 🌏 여행 동행 앱 (Flutter)
-
-현재 개발 중인 프로젝트
+Flutter 기반 여행 동행 매칭 앱
 
 * 위치 기반 여행자 매칭
-* 카테고리 / 연령 / 성별 필터
-* 동행 생성 및 참여 기능
-
+* 카테고리 필터
+* 동행 생성 / 참여 기능
+  
 ---
 
-## 📊 GitHub 통계
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinhanseo&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shinhanseo&show_icons=true&theme=tokyonight&count_private=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinhanseo&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinhanseo&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📈 활동 그래프
+# 📈 Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinhanseo&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 🔥 Commit Streak
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shinhanseo&theme=tokyonight&row=1&column=6"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shinhanseo&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔗 링크
+# 🌱 Contribution Graph
 
-* GitHub : https://github.com/shinhanseo
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://ghchart.rshah.org/409ba5/shinhanseo"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shinhanseo&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shinhanseo&repo=cocktail_lounge&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shinhanseo&repo=meet-alarm&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shinhanseo&repo=TripMate&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="https://github.com/shinhanseo">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
