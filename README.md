@@ -1,11 +1,11 @@
-가천대학교 **컴퓨터공학과**에 재학 중인 **신한서**입니다. 🚀  
+가천대학교 **컴퓨터공학과**에 재학 중인 **신한서**입니다.  
 
 다양한 기술을 경험하며 꾸준히 공부하고 있는 개발자입니다.  
-특히 **모바일 애플리케이션 개발**에 관심이 있으며 Flutter와 React Native를 이용해 서비스를 만들고 있습니다. 📱
+특히 **모바일 애플리케이션 개발**에 관심이 있으며 Flutter와 React Native를 이용해 서비스를 만들고 있습니다.
 
 ---
 
-## 💪 Skills
+## Skills
 
 ### Platforms & Languages
 <p>
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shinhanseo&theme=tokyonight"/>
