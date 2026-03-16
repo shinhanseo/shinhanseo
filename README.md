@@ -46,11 +46,11 @@ Flutter · React · Android · Node.js
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
+</p>>
 
 ### Cloud & DevOps
 
