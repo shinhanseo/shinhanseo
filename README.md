@@ -42,7 +42,7 @@ Flutter · React · Android · Node.js
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://skillicons.dev/icons?i=android" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
