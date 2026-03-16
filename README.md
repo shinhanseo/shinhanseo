@@ -43,8 +43,7 @@ Flutter · React · Android · Node.js
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,android" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://skillicons.dev/icons?i=flutter,android,react" />
 </p>
 
 ### Backend
