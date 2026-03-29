@@ -39,5 +39,5 @@
 
 <p align="center">
 <img height="160" src="https://streak-stats.demolab.com?user=shinhanseo&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinhanseo&layout=compact&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinhanseo&layout=compact&theme=tokyonight" />
 </p>
