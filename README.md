@@ -40,7 +40,3 @@
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=shinhanseo&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C7B7&size=24&center=true&vCenter=true&width=600&lines=Mobile+Developer;Flutter+%7C+React+Native;Building+Real+World+Services" />
-</p>
