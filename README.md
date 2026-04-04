@@ -39,4 +39,5 @@
 
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=shinhanseo&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shinhanseo&show_icons=true&theme=tokyonight" />
 </p>
