@@ -40,5 +40,5 @@
 
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=shinhanseo&theme=tokyonight" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinhanseo&layout=compact&theme=tokyonight" />
 </p>
