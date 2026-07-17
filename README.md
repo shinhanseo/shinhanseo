@@ -125,6 +125,6 @@ Flutter · React Native · Android를 중심으로 아이디어를 직접 구현
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=shinhanseo&theme=tokyonight&v=3" alt="GitHub Streak" />
+  <img height="160" src="./profile/streak.svg" alt="GitHub Streak" />
   <img height="160" src="./profile/top-langs.svg?v=3" alt="Most Used Languages" />
 </p>
