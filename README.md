@@ -9,9 +9,9 @@ Flutter · React Native · Android를 중심으로 아이디어를 직접 구현
 
 <br>
 
-<img src="https://img.shields.io/badge/Released_Apps-3-6C63FF?style=for-the-badge" alt="Released Apps 3"/>
-<img src="https://img.shields.io/badge/App_Store-3-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store 3"/>
-<img src="https://img.shields.io/badge/Google_Play-2-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play 2"/>
+<img src="./profile/badges/released-apps.svg" alt="Released Apps 3"/>
+<img src="./profile/badges/app-store.svg" alt="App Store 3"/>
+<img src="./profile/badges/google-play.svg" alt="Google Play 2"/>
 
 </div>
 
@@ -87,37 +87,37 @@ Flutter · React Native · Android를 중심으로 아이디어를 직접 구현
 
 <h4>Mobile</h4>
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="./profile/badges/flutter.svg" alt="Flutter"/>
+<img src="./profile/badges/react-native.svg" alt="React Native"/>
+<img src="./profile/badges/android.svg" alt="Android"/>
+<img src="./profile/badges/kotlin.svg" alt="Kotlin"/>
+<img src="./profile/badges/dart.svg" alt="Dart"/>
 </p>
 
 <h4>Frontend</h4>
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="./profile/badges/react.svg" alt="React"/>
+<img src="./profile/badges/typescript.svg" alt="TypeScript"/>
+<img src="./profile/badges/javascript.svg" alt="JavaScript"/>
+<img src="./profile/badges/zustand.svg" alt="Zustand"/>
+<img src="./profile/badges/tailwindcss.svg" alt="Tailwind CSS"/>
 </p>
 
 <h4>Backend & Data</h4>
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="./profile/badges/nodejs.svg" alt="Node.js"/>
+<img src="./profile/badges/express.svg" alt="Express"/>
+<img src="./profile/badges/postgresql.svg" alt="PostgreSQL"/>
+<img src="./profile/badges/prisma.svg" alt="Prisma"/>
+<img src="./profile/badges/python.svg" alt="Python"/>
+<img src="./profile/badges/java.svg" alt="Java"/>
 </p>
 
 <h4>Infrastructure & Tools</h4>
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="./profile/badges/aws.svg" alt="AWS"/>
+<img src="./profile/badges/docker.svg" alt="Docker"/>
+<img src="./profile/badges/github-actions.svg" alt="GitHub Actions"/>
 </p>
 
 ---
