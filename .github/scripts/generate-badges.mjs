@@ -21,7 +21,7 @@ const badges = [
   {
     "file": "google-play.svg",
     "label": "Google Play",
-    "message": "2",
+    "message": "3",
     "color": "#414141",
     "icon": "googleplay",
     "style": "for"
