@@ -11,7 +11,7 @@ Flutter · React Native · Android를 중심으로 아이디어를 직접 구현
 
 <img src="./profile/badges/released-apps.svg" alt="Released Apps 3"/>
 <img src="./profile/badges/app-store.svg" alt="App Store 3"/>
-<img src="./profile/badges/google-play.svg" alt="Google Play 2"/>
+<img src="./profile/badges/google-play.svg" alt="Google Play 3"/>
 
 </div>
 
@@ -74,7 +74,8 @@ Flutter · React Native · Android를 중심으로 아이디어를 직접 구현
 
 <p align="center">
 <a href="https://github.com/shinhanseo/meomun">GitHub</a><br>
-<a href="https://apps.apple.com/kr/app/id6787008881">App Store</a>
+<a href="https://apps.apple.com/kr/app/id6787008881">App Store</a> ·
+<a href="https://play.google.com/store/apps/details?id=com.hanseo.meomun&hl=ko">Google Play</a>
 </p>
 
 </td>
