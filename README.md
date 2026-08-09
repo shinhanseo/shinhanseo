@@ -5,7 +5,7 @@
 사용자의 일상에 자연스럽게 스며드는 모바일 경험을 만듭니다.
 
 가천대학교 **컴퓨터공학과**에 재학 중이며,  
-Flutter · React Native · Android를 중심으로 아이디어를 직접 구현하고 배포합니다.
+Flutter · Android · React Native 를 중심으로 아이디어를 직접 구현하고 배포합니다.
 
 <br>
 
