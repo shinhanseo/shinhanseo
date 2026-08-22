@@ -13,6 +13,8 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ## Selected Work
 
+> **개인 프로젝트** · 기획과 UI/UX 디자인, 클라이언트 구현을 직접 담당했습니다. 서버가 필요한 앱은 백엔드까지 구현했으며, 출시한 3개 앱은 iOS·Android 심사와 배포 전 과정을 진행했습니다.
+
 ### noti. — 중요한 알림을 선별하는 Android 앱
 
 기기에 쌓이는 알림 중 사용자가 확인해야 할 알림을 찾고,
@@ -81,6 +83,22 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/meomun)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6787008881)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanseo.meomun&hl=ko)
+
+---
+
+## Team Experience
+
+### PAUZE — HSP를 위한 감정 안정 서비스
+
+4인 Android 팀에서 **큐레이션(발견)과 시각 안정 기능**을 담당했습니다.
+
+- Jetpack Compose로 큐레이션 발견 화면과 시각 안정 화면 구현
+- 팀 디자인 시스템과 공통 컴포넌트 규칙에 맞춰 화면 구성
+- Issue 기반 작업 분리와 기능별 브랜치, PR 코드 리뷰 및 Squash & Merge 협업
+
+`Kotlin` `Jetpack Compose` `MVVM` `Hilt` `Retrofit`
+
+[![Team Repository](https://img.shields.io/badge/Team_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UMC-PAUZE/PAUZE-Android)
 
 ---
 
