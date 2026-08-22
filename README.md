@@ -25,7 +25,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 `Kotlin` `Jetpack Compose` `Room` `Hilt` `ONNX Runtime`
 
-[Repository](https://github.com/shinhanseo/noti)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/noti)
 
 ---
 
@@ -41,7 +41,10 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 `React Native` `Expo` `TypeScript` `Zustand` `Node.js`
 
-[App](https://github.com/shinhanseo/meet_alarm) · [Backend](https://github.com/shinhanseo/meet_alarm_backend) · [App Store](https://apps.apple.com/kr/app/id6759585246) · [Google Play](https://play.google.com/store/apps/details?id=com.imkara1.meetalarm)
+[![App Repository](https://img.shields.io/badge/App_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/meet_alarm)
+[![Backend](https://img.shields.io/badge/Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/shinhanseo/meet_alarm_backend)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6759585246)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.imkara1.meetalarm)
 
 ---
 
@@ -57,7 +60,9 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 `Flutter` `Dart` `Node.js` `Socket.IO` `PostgreSQL` `FCM`
 
-[Repository](https://github.com/shinhanseo/trip_mate) · [App Store](https://apps.apple.com/kr/app/id6771613106) · [Google Play](https://play.google.com/store/apps/details?id=com.hanseo.mohaeng)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/trip_mate)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6771613106)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanseo.mohaeng)
 
 ---
 
@@ -73,7 +78,9 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 `React Native` `Expo` `TypeScript` `TanStack Query` `Zustand` `PostgreSQL`
 
-[Repository](https://github.com/shinhanseo/meomun) · [App Store](https://apps.apple.com/kr/app/id6787008881) · [Google Play](https://play.google.com/store/apps/details?id=com.hanseo.meomun&hl=ko)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/meomun)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6787008881)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanseo.meomun&hl=ko)
 
 ---
 
