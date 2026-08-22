@@ -129,4 +129,6 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ## Writing
 
-앱을 만들며 마주친 문제와 기술적 선택을 [Velog](https://velog.io/@imkara/posts)에 기록하고 있습니다.
+앱을 만들며 마주친 문제와 기술적 선택을 기록하고 있습니다.
+
+[![Velog](https://img.shields.io/badge/Velog-개발_기록-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/posts)
