@@ -1,7 +1,7 @@
 # 신한서 | Mobile App Developer
 
 React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**했습니다.
-모바일 클라이언트부터 백엔드, 네이티브 기능 연동과 스토어 배포까지 제품을 완성하는 과정을 경험했습니다.
+크로스플랫폼 앱 출시 경험을 바탕으로, **Kotlin과 Jetpack Compose를 활용한 네이티브 Android 앱 개발**과 온디바이스 AI 적용까지 기술 범위를 확장하고 있습니다.
 
 <p>
   <img src="./profile/badges/released-apps.svg" alt="Released Apps 3" />
