@@ -13,7 +13,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ## Selected Work
 
-### noti. — 중요한 알림을 선별하는 Android 앱 <img src="./profile/badges/jetpack-compose-title.svg" alt="Jetpack Compose" />
+### noti. — 중요한 알림을 선별하는 Android 앱 <sub><img src="./profile/badges/jetpack-compose.svg" alt="Jetpack Compose" /></sub>
 
 기기에 쌓이는 알림 중 사용자가 확인해야 할 알림을 찾고,
 왜 중요하다고 판단했는지 설명하는 온디바이스 알림 관리 앱입니다.
@@ -29,7 +29,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ---
 
-### 지금이니 — 약속 시간에 맞춘 출발 행동 지원 <img src="./profile/badges/react-native-title.svg" alt="React Native" />
+### 지금이니 — 약속 시간에 맞춘 출발 행동 지원 <sub><img src="./profile/badges/react-native.svg" alt="React Native" /></sub>
 
 이동 경로를 바탕으로 출발 시각을 계산하고,
 알림과 신발 사진 인증을 통해 실제 출발까지 이어지도록 만든 앱입니다.
@@ -48,7 +48,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ---
 
-### 모행 — 제주 여행 동행 매칭 서비스 <img src="./profile/badges/flutter-title.svg" alt="Flutter" />
+### 모행 — 제주 여행 동행 매칭 서비스 <sub><img src="./profile/badges/flutter.svg" alt="Flutter" /></sub>
 
 제주 여행자가 조건에 맞는 동행을 모집하고 참여한 뒤,
 실시간 채팅으로 일정을 조율할 수 있는 여행 커뮤니티 앱입니다.
@@ -66,7 +66,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ---
 
-### 머문 — 장소에 남기는 감정 기록 <img src="./profile/badges/react-native-title.svg" alt="React Native" />
+### 머문 — 장소에 남기는 감정 기록 <sub><img src="./profile/badges/react-native.svg" alt="React Native" /></sub>
 
 장소와 사진, 감정을 함께 기록하고
 지도와 통계를 통해 자신의 감정 흐름을 돌아볼 수 있는 위치 기반 기록 앱입니다.
