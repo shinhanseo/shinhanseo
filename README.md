@@ -28,6 +28,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 `Kotlin` `Jetpack Compose` `Room` `Hilt` `ONNX Runtime`
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/noti)
+[![Velog Series](https://img.shields.io/badge/Velog_Series-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/series/noti.)
 
 ---
 
@@ -47,6 +48,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 [![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/meet_alarm_backend)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6759585246)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.imkara1.meetalarm)
+[![Velog Series](https://img.shields.io/badge/Velog_Series-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/series/%EC%A7%80%EA%B8%88%EC%9D%B4%EB%8B%88)
 
 ---
 
@@ -65,6 +67,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/trip_mate)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6771613106)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanseo.mohaeng)
+[![Velog Series](https://img.shields.io/badge/Velog_Series-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/series/%EB%AA%A8%ED%96%89)
 
 ---
 
@@ -83,6 +86,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/meomun)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6787008881)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanseo.meomun&hl=ko)
+[![Velog Series](https://img.shields.io/badge/Velog_Series-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/series/%EB%A8%B8%EB%AC%B8)
 
 ---
 
