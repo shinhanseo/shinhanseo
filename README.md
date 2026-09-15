@@ -17,6 +17,10 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ### noti. — 중요한 알림을 선별하는 Android 앱
 
+<a href="https://github.com/shinhanseo/noti">
+  <img src="./profile/banners/noti-banner.png" width="100%" alt="noti. — 중요한 알림만 이유와 함께 보여주는 온디바이스 알림 관리 앱" />
+</a>
+
 기기에 쌓이는 알림 중 사용자가 확인해야 할 알림을 찾고,
 왜 중요하다고 판단했는지 설명하는 온디바이스 알림 관리 앱입니다.
 
@@ -33,6 +37,10 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 ---
 
 ### 지금이니 — 약속 시간에 맞춘 출발 행동 지원
+
+<a href="https://github.com/shinhanseo/meet_alarm">
+  <img src="./profile/banners/jigeumini-banner.png" width="100%" alt="지금이니 — 경로 계산부터 출발 인증까지 연결하는 약속 도우미" />
+</a>
 
 이동 경로를 바탕으로 출발 시각을 계산하고,
 알림과 신발 사진 인증을 통해 실제 출발까지 이어지도록 만든 앱입니다.
@@ -54,6 +62,10 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 
 ### 모행 — 제주 여행 동행 매칭 서비스
 
+<a href="https://github.com/shinhanseo/trip_mate">
+  <img src="./profile/banners/mohaeng-banner.png" width="100%" alt="모행 — 제주 여행 동행 탐색과 실시간 채팅 서비스" />
+</a>
+
 제주 여행자가 조건에 맞는 동행을 모집하고 참여한 뒤,
 실시간 채팅으로 일정을 조율할 수 있는 여행 커뮤니티 앱입니다.
 
@@ -72,6 +84,10 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 ---
 
 ### 머문 — 장소에 남기는 감정 기록
+
+<a href="https://github.com/shinhanseo/meomun">
+  <img src="./profile/banners/meomun-banner.png" width="100%" alt="머문 — 장소와 감정을 함께 남기는 위치 기반 기록 앱" />
+</a>
 
 장소와 사진, 감정을 함께 기록하고
 지도와 통계를 통해 자신의 감정 흐름을 돌아볼 수 있는 위치 기반 기록 앱입니다.
@@ -93,6 +109,10 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 ## Team Experience
 
 ### PAUZE — HSP를 위한 감정 안정 서비스
+
+<a href="https://github.com/UMC-PAUZE/PAUZE-Android">
+  <img src="./profile/banners/pauze-banner.png" width="100%" alt="PAUZE — HSP의 감각 과부하를 낮추는 감정 안정 서비스" />
+</a>
 
 4인 Android 팀에서 **큐레이션(발견)과 시각 안정 기능**을 담당했습니다.
 
