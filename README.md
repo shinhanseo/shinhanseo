@@ -1,19 +1,19 @@
 # 신한서 | Mobile App Developer
 
-React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**했습니다.
-크로스플랫폼 앱 출시 경험을 바탕으로, **Kotlin과 Jetpack Compose를 활용한 네이티브 Android 앱 개발**과 온디바이스 AI 적용까지 기술 범위를 확장하고 있습니다.
+**4개의 모바일 앱을 출시**했습니다. React Native와 Flutter로 만든 3개 앱은 iOS·Android에, Kotlin과 Jetpack Compose로 만든 **온디바이스 AI 알림 관리 앱 `noti.`는 Android에 출시**했습니다.
+크로스플랫폼과 네이티브 Android 개발 경험을 바탕으로, 기획부터 구현·스토어 심사·배포까지 직접 진행하고 있습니다.
 
 <p>
-  <img src="./profile/badges/released-apps.svg" alt="Released Apps 3" />
+  <img src="./profile/badges/released-apps.svg" alt="Released Apps 4" />
   <img src="./profile/badges/app-store.svg" alt="App Store 3" />
-  <img src="./profile/badges/google-play.svg" alt="Google Play 3" />
+  <img src="./profile/badges/google-play.svg" alt="Google Play 4" />
 </p>
 
 ---
 
 ## Selected Work
 
-> **개인 프로젝트** · 기획과 UI/UX 디자인, 클라이언트 구현을 직접 담당했습니다. 서버가 필요한 앱은 백엔드까지 구현했으며, 출시한 3개 앱은 iOS·Android 심사와 배포 전 과정을 진행했습니다.
+> **개인 프로젝트** · 기획과 UI/UX 디자인, 클라이언트 구현을 직접 담당했습니다. 서버가 필요한 앱은 백엔드까지 구현했으며, 4개 앱의 스토어 심사와 배포를 진행했습니다. 이 중 3개는 iOS·Android에, `noti.`는 Android에 출시했습니다.
 
 ### noti. — 중요한 알림을 선별하는 Android 앱
 
@@ -32,6 +32,7 @@ React Native와 Flutter로 **3개의 모바일 앱을 iOS와 Android에 출시**
 `Kotlin` `Jetpack Compose` `Room` `Hilt` `ONNX Runtime`
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/noti)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hanseo.noti)
 [![Velog Series](https://img.shields.io/badge/Velog_Series-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/series/noti.)
 
 ---

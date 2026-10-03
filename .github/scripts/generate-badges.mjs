@@ -6,7 +6,7 @@ const badges = [
   {
     "file": "released-apps.svg",
     "label": "Released Apps",
-    "message": "3",
+    "message": "4",
     "color": "#6C63FF",
     "style": "for"
   },
@@ -21,7 +21,7 @@ const badges = [
   {
     "file": "google-play.svg",
     "label": "Google Play",
-    "message": "3",
+    "message": "4",
     "color": "#414141",
     "icon": "googleplay",
     "style": "for"
