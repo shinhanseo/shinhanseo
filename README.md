@@ -25,9 +25,9 @@ React Native와 Flutter로 iOS·Android 앱을 개발합니다.
 **판단 이유를 함께 보여주는 Android 앱**입니다.
 
 - **판단 방식:** 설명 가능한 규칙으로 먼저 판단하고, 애매한 구간에만 온디바이스 모델을 적용했습니다.
-- **모델 선택:** 실제 알림 데이터로 모델 정확도와 앱 용량을 비교한 뒤 ONNX 모델을 선정했습니다.
+- **모델 선택:** 모델 크기와 중요 알림 누락을 함께 비교해 KoEn-E5-Tiny INT8을 채택했습니다. 실제 알림 145개를 사용한 개발 평가에서 중요 알림 Recall 92.3%, ONNX 모델 크기 36.5 MiB를 확인했습니다. 최종 블라인드 평가 수치는 아닙니다. ([비교 보고서](https://github.com/shinhanseo/noti/blob/main/ml/reports/compact_mobile_onnx_validation_v2.md))
 - **알림 처리:** `NotificationListenerService`로 알림을 수집하고 `Room`에 저장했습니다.
-- **검증:** 중요도 판단 로직을 JUnit으로 테스트하고, Hilt로 의존성을 관리했습니다.
+- **검증:** 중요도 판단 로직을 JUnit으로 테스트했습니다.
 
 `Kotlin` `Jetpack Compose` `Room` `Hilt` `ONNX Runtime`
 
@@ -99,7 +99,8 @@ React Native와 Flutter로 iOS·Android 앱을 개발합니다.
 
 4인 Android 팀에서 **큐레이션(발견)과 시각 안정 기능**을 담당했습니다.
 
-- Jetpack Compose로 담당 화면을 구현하고, 팀 디자인 시스템과 공통 컴포넌트 규칙을 적용했습니다.
+- Jetpack Compose로 담당 화면을 구현하고, 큐레이션 카테고리 칩을 팀 공통 컴포넌트로 교체했습니다. ([PR #137](https://github.com/UMC-PAUZE/PAUZE-Android/pull/137))
+- 보관함 검색은 API 제공 전 클라이언트 필터링으로 구현한 뒤, 서버의 `keyword` 파라미터 추가에 맞춰 검색과 페이지네이션을 연동했습니다. ([PR #142](https://github.com/UMC-PAUZE/PAUZE-Android/pull/142), [PR #162](https://github.com/UMC-PAUZE/PAUZE-Android/pull/162))
 - Issue 단위로 작업을 분리하고 기능별 브랜치에서 개발했습니다.
 - PR 코드 리뷰와 Squash & Merge 방식으로 협업했습니다.
 
@@ -113,9 +114,8 @@ React Native와 Flutter로 iOS·Android 앱을 개발합니다.
 
 앱을 개발하며 마주친 문제와 기술적 선택을 기록합니다.
 
-- [noti. — 온디바이스 알림 관리 앱 개발 기록](https://velog.io/@imkara/series/noti.)
-- [지금이니 — 출발 지원 앱 개발 기록](https://velog.io/@imkara/series/%EC%A7%80%EA%B8%88%EC%9D%B4%EB%8B%88)
-- [모행 — 여행 동행 서비스 개발 기록](https://velog.io/@imkara/series/%EB%AA%A8%ED%96%89)
-- [머문 — 위치 기반 감정 기록 앱 개발 기록](https://velog.io/@imkara/series/%EB%A8%B8%EB%AC%B8)
+- [[noti. 14] WorkManager로 알림 리스너 주기적으로 점검하기](https://velog.io/@imkara/noti.-14-WorkManager%EB%A1%9C-%EC%95%8C%EB%A6%BC-%EB%A6%AC%EC%8A%A4%EB%84%88-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%90%EA%B2%80%ED%95%98%EA%B8%B0)
+- [[DearShot 04] YOLOX 객체 좌표를 CameraX 미리보기에 맞추기](https://velog.io/@imkara/DearShot-04-YOLOX-%EA%B0%9D%EC%B2%B4-%EC%A2%8C%ED%91%9C%EB%A5%BC-CameraX-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EC%97%90-%EB%A7%9E%EC%B6%94%EA%B8%B0)
+- [React Native에서 iOS 홈 화면 위젯 만들기 - App Group과 WidgetKit 연동](https://velog.io/@imkara/%EB%A8%B8%EB%AC%B8-iOS-%EC%9C%84%EC%A0%AF-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 [![Velog](https://img.shields.io/badge/Velog-개발_기록-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/posts)
