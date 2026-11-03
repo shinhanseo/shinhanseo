@@ -114,8 +114,4 @@ React Native와 Flutter로 iOS·Android 앱을 개발합니다.
 
 앱을 개발하며 마주친 문제와 기술적 선택을 기록합니다.
 
-- [[noti. 14] WorkManager로 알림 리스너 주기적으로 점검하기](https://velog.io/@imkara/noti.-14-WorkManager%EB%A1%9C-%EC%95%8C%EB%A6%BC-%EB%A6%AC%EC%8A%A4%EB%84%88-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%90%EA%B2%80%ED%95%98%EA%B8%B0)
-- [[DearShot 04] YOLOX 객체 좌표를 CameraX 미리보기에 맞추기](https://velog.io/@imkara/DearShot-04-YOLOX-%EA%B0%9D%EC%B2%B4-%EC%A2%8C%ED%91%9C%EB%A5%BC-CameraX-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EC%97%90-%EB%A7%9E%EC%B6%94%EA%B8%B0)
-- [React Native에서 iOS 홈 화면 위젯 만들기 - App Group과 WidgetKit 연동](https://velog.io/@imkara/%EB%A8%B8%EB%AC%B8-iOS-%EC%9C%84%EC%A0%AF-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-
 [![Velog](https://img.shields.io/badge/Velog-개발_기록-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/posts)
