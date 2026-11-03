@@ -1,7 +1,10 @@
 # 신한서 | Mobile App Developer
 
-**4개의 모바일 앱을 출시**했습니다. React Native와 Flutter로 만든 3개 앱은 iOS·Android에, Kotlin과 Jetpack Compose로 만든 **온디바이스 AI 알림 관리 앱 `noti.`는 Android에 출시**했습니다.
-크로스플랫폼과 네이티브 Android 개발 경험을 바탕으로, 기획부터 구현·스토어 심사·배포까지 직접 진행하고 있습니다.
+**4개의 모바일 앱을 기획부터 개발·스토어 심사·배포까지 직접 진행했습니다.**
+
+Kotlin·Jetpack Compose로 네이티브 Android 앱을,
+React Native와 Flutter로 iOS·Android 앱을 개발합니다.
+알림, 위치, 카메라, 실시간 채팅 등 모바일 환경의 기능을 사용자 흐름에 맞게 구현해왔습니다.
 
 <p>
   <img src="./profile/badges/released-apps.svg" alt="Released Apps 4" />
@@ -13,21 +16,18 @@
 
 ## Selected Work
 
-> **개인 프로젝트** · 기획과 UI/UX 디자인, 클라이언트 구현을 직접 담당했습니다. 서버가 필요한 앱은 백엔드까지 구현했으며, 4개 앱의 스토어 심사와 배포를 진행했습니다. 이 중 3개는 iOS·Android에, `noti.`는 Android에 출시했습니다.
+개인 프로젝트의 기획·UI/UX 디자인·클라이언트 개발을 담당했으며,
+서버가 필요한 서비스는 백엔드까지 구현했습니다.
 
-### noti. — 중요한 알림을 선별하는 Android 앱
+### noti. | 온디바이스 AI 알림 관리
 
-<a href="https://github.com/shinhanseo/noti">
-  <img src="./profile/banners/noti-banner.png" width="100%" alt="noti. — 중요한 알림만 이유와 함께 보여주는 온디바이스 알림 관리 앱" />
-</a>
+쌓이는 알림에서 중요한 알림을 선별하고,
+**판단 이유를 함께 보여주는 Android 앱**입니다.
 
-기기에 쌓이는 알림 중 사용자가 확인해야 할 알림을 찾고,
-왜 중요하다고 판단했는지 설명하는 온디바이스 알림 관리 앱입니다.
-
-- `NotificationListenerService`로 알림을 수집하고 `Room`에 저장
-- 설명 가능한 규칙으로 우선 판단하고, 애매한 구간에만 온디바이스 모델 적용
-- 실제 알림 데이터를 기준으로 모델 정확도와 앱 용량을 비교한 뒤 ONNX 모델 선정
-- Hilt를 이용한 의존성 주입과 JUnit 기반 중요도 판단 로직 테스트
+- **판단 방식:** 설명 가능한 규칙으로 먼저 판단하고, 애매한 구간에만 온디바이스 모델을 적용했습니다.
+- **모델 선택:** 실제 알림 데이터로 모델 정확도와 앱 용량을 비교한 뒤 ONNX 모델을 선정했습니다.
+- **알림 처리:** `NotificationListenerService`로 알림을 수집하고 `Room`에 저장했습니다.
+- **검증:** 중요도 판단 로직을 JUnit으로 테스트하고, Hilt로 의존성을 관리했습니다.
 
 `Kotlin` `Jetpack Compose` `Room` `Hilt` `ONNX Runtime`
 
@@ -37,19 +37,15 @@
 
 ---
 
-### 지금이니 — 약속 시간에 맞춘 출발 행동 지원
+### 지금이니 | 약속 시간에 맞춘 출발 지원
 
-<a href="https://github.com/shinhanseo/meet_alarm">
-  <img src="./profile/banners/jigeumini-banner.png" width="100%" alt="지금이니 — 경로 계산부터 출발 인증까지 연결하는 약속 도우미" />
-</a>
+경로에 따라 출발 시각을 계산하고,
+**알림과 신발 사진 인증으로 실제 출발까지 이어지도록 만든 앱**입니다.
 
-이동 경로를 바탕으로 출발 시각을 계산하고,
-알림과 신발 사진 인증을 통해 실제 출발까지 이어지도록 만든 앱입니다.
-
-- 대중교통 이동 시간과 준비 시간을 반영한 출발 시각 계산
-- 출발 전·출발 시각·미인증 상태에 맞춘 로컬 알림 예약 및 정리
-- 카메라 판별 결과에 위치와 시간 조건을 결합한 출발 인증
-- 오프라인 상태 처리와 iOS·Android 스토어 배포
+- 대중교통 이동 시간과 준비 시간을 반영해 출발 시각을 계산했습니다.
+- 출발 전·출발 시각·미인증 상태에 맞춰 로컬 알림을 예약하고 정리했습니다.
+- 카메라 판별 결과에 위치·시간 조건을 결합해 출발을 인증했습니다.
+- 오프라인 상태를 처리하고 iOS·Android에 배포했습니다.
 
 `React Native` `Expo` `TypeScript` `Zustand` `Node.js`
 
@@ -61,21 +57,16 @@
 
 ---
 
-### 모행 — 제주 여행 동행 매칭 서비스
+### 모행 | 제주 여행 동행 매칭
 
-<a href="https://github.com/shinhanseo/trip_mate">
-  <img src="./profile/banners/mohaeng-banner.png" width="100%" alt="모행 — 제주 여행 동행 탐색과 실시간 채팅 서비스" />
-</a>
+조건에 맞는 동행을 모집하고 참여한 뒤,
+실시간 채팅으로 일정을 조율하는 여행 커뮤니티 앱입니다.
 
-제주 여행자가 조건에 맞는 동행을 모집하고 참여한 뒤,
-실시간 채팅으로 일정을 조율할 수 있는 여행 커뮤니티 앱입니다.
+- Socket.IO 실시간 채팅과 Drift 기반 로컬 메시지 관리를 구현했습니다.
+- JWT 인증·FCM 푸시·S3 이미지 업로드를 포함한 백엔드를 개발했습니다.
+- EULA·신고·차단·사용자 숨김 기능을 구현하고 iOS·Android에 배포했습니다.
 
-- 조건별 동행 탐색과 제주 지역 기반 장소 검증
-- Socket.IO 실시간 채팅과 Drift 기반 로컬 메시지 관리
-- JWT 인증, FCM 푸시 알림, AWS S3 이미지 업로드를 포함한 백엔드 구현
-- 스토어 심사를 고려한 EULA, 신고, 차단 및 사용자 숨김 기능
-
-`Flutter` `Dart` `Node.js` `Socket.IO` `PostgreSQL` `FCM`
+`Flutter` `Dart` `Node.js` `Socket.IO` `Drift` `PostgreSQL` `FCM`
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shinhanseo/trip_mate)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6771613106)
@@ -84,19 +75,14 @@
 
 ---
 
-### 머문 — 장소에 남기는 감정 기록
+### 머문 | 장소에 남기는 감정 기록
 
-<a href="https://github.com/shinhanseo/meomun">
-  <img src="./profile/banners/meomun-banner.png" width="100%" alt="머문 — 장소와 감정을 함께 남기는 위치 기반 기록 앱" />
-</a>
+장소·사진·감정을 함께 기록하고,
+지도와 통계로 감정의 흐름을 돌아보는 앱입니다.
 
-장소와 사진, 감정을 함께 기록하고
-지도와 통계를 통해 자신의 감정 흐름을 돌아볼 수 있는 위치 기반 기록 앱입니다.
-
-- 장소별 감정 기록과 네이버 지도 기반 감정 지도
-- 월별·감정별·장소별 보관함과 감정 통계 시각화
-- TanStack Query로 서버 상태를, Zustand로 클라이언트 상태를 분리
-- 카카오·Apple 로그인과 JWT 기반 인증, iOS·Android 스토어 배포
+- 네이버 지도 기반 감정 지도와 월별·감정별·장소별 보관함을 구현했습니다.
+- TanStack Query로 서버 상태를, Zustand로 클라이언트 상태를 분리했습니다.
+- 카카오·Apple 로그인과 JWT 인증을 구현하고 iOS·Android에 배포했습니다.
 
 `React Native` `Expo` `TypeScript` `TanStack Query` `Zustand` `PostgreSQL`
 
@@ -109,17 +95,13 @@
 
 ## Team Experience
 
-### PAUZE — HSP를 위한 감정 안정 서비스
-
-<a href="https://github.com/UMC-PAUZE/PAUZE-Android">
-  <img src="./profile/banners/pauze-banner.png" width="100%" alt="PAUZE — HSP의 감각 과부하를 낮추는 감정 안정 서비스" />
-</a>
+### PAUZE | HSP를 위한 감정 안정 서비스
 
 4인 Android 팀에서 **큐레이션(발견)과 시각 안정 기능**을 담당했습니다.
 
-- Jetpack Compose로 큐레이션 발견 화면과 시각 안정 화면 구현
-- 팀 디자인 시스템과 공통 컴포넌트 규칙에 맞춰 화면 구성
-- Issue 기반 작업 분리와 기능별 브랜치, PR 코드 리뷰 및 Squash & Merge 협업
+- Jetpack Compose로 담당 화면을 구현하고, 팀 디자인 시스템과 공통 컴포넌트 규칙을 적용했습니다.
+- Issue 단위로 작업을 분리하고 기능별 브랜치에서 개발했습니다.
+- PR 코드 리뷰와 Squash & Merge 방식으로 협업했습니다.
 
 `Kotlin` `Jetpack Compose` `MVVM` `Hilt` `Retrofit`
 
@@ -127,51 +109,13 @@
 
 ---
 
-## Tech Stack
-
-#### Mobile
-
-<p>
-  <img src="./profile/badges/android.svg" alt="Android" />
-  <img src="./profile/badges/kotlin.svg" alt="Kotlin" />
-  <img src="./profile/badges/flutter.svg" alt="Flutter" />
-  <img src="./profile/badges/dart.svg" alt="Dart" />
-  <img src="./profile/badges/react-native.svg" alt="React Native" />
-</p>
-
-#### Frontend
-
-<p>
-  <img src="./profile/badges/react.svg" alt="React" />
-  <img src="./profile/badges/typescript.svg" alt="TypeScript" />
-  <img src="./profile/badges/javascript.svg" alt="JavaScript" />
-  <img src="./profile/badges/zustand.svg" alt="Zustand" />
-  <img src="./profile/badges/tailwindcss.svg" alt="Tailwind CSS" />
-</p>
-
-#### Backend & Data
-
-<p>
-  <img src="./profile/badges/nodejs.svg" alt="Node.js" />
-  <img src="./profile/badges/express.svg" alt="Express" />
-  <img src="./profile/badges/postgresql.svg" alt="PostgreSQL" />
-  <img src="./profile/badges/prisma.svg" alt="Prisma" />
-  <img src="./profile/badges/python.svg" alt="Python" />
-  <img src="./profile/badges/java.svg" alt="Java" />
-</p>
-
-#### Infrastructure & Tools
-
-<p>
-  <img src="./profile/badges/aws.svg" alt="AWS" />
-  <img src="./profile/badges/docker.svg" alt="Docker" />
-  <img src="./profile/badges/github-actions.svg" alt="GitHub Actions" />
-</p>
-
----
-
 ## Writing
 
-앱을 만들며 마주친 문제와 기술적 선택을 기록하고 있습니다.
+앱을 개발하며 마주친 문제와 기술적 선택을 기록합니다.
+
+- [noti. — 온디바이스 알림 관리 앱 개발 기록](https://velog.io/@imkara/series/noti.)
+- [지금이니 — 출발 지원 앱 개발 기록](https://velog.io/@imkara/series/%EC%A7%80%EA%B8%88%EC%9D%B4%EB%8B%88)
+- [모행 — 여행 동행 서비스 개발 기록](https://velog.io/@imkara/series/%EB%AA%A8%ED%96%89)
+- [머문 — 위치 기반 감정 기록 앱 개발 기록](https://velog.io/@imkara/series/%EB%A8%B8%EB%AC%B8)
 
 [![Velog](https://img.shields.io/badge/Velog-개발_기록-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imkara/posts)
